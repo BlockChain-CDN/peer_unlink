@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.19;
 
-import {FTSU} from "./FairThunder_Stream_Utility.sol";
+import {FTSU} from "./FairStream_Utility.sol";
 
 contract FairStreamingUnlinking {
     

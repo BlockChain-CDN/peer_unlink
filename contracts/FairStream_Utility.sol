@@ -2,8 +2,8 @@
 pragma solidity ^0.8.19;
 
 /**
- * @title FairThunderStreamUtility
- * @dev Utility library for FairThunder streaming protocol with ZK-SNARK support
+ * @title FairStreamUtility
+ * @dev Utility library for protocol with ZK-SNARK support
  */
 library FTSU {
     

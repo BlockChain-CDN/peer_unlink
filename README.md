@@ -10,7 +10,7 @@ Groth16 zkSNARK verifier using Pairing.sol primitives.
 Helper functions: ZK verification, signature recovery, message hashing, and struct definitions.
 
 ## `FairStream_Optimistic.sol`
-Main FairThunder streaming contract with:
+Main streaming contract with:
 - Optimistic payment streams
 - GPLP-based privacy settlement
 - ZK staking authentication

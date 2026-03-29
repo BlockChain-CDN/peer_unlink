@@ -5,7 +5,7 @@ import "./Pairing.sol";
 
 /**
  * @title Groth16 Zero-Knowledge Proof Verifier
- * @dev Verifies Groth16 proofs for the FairThunder staking relation
+ * @dev Verifies Groth16 proofs for the FairStream staking relation
  * 
  * Circuit Relation R(x; w):
  *   Public inputs x = (EEID, Nul, root_m, T, root_com, ฿^thre)
